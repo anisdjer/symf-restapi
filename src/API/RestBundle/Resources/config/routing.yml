@@ -1,0 +1,6 @@
+api_rest_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: APIRestBundle:Default:index }
+users:
+    type:     rest
+    resource: API\RestBundle\Controller\UsersController
