@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/FriendsOfSymfony/FOSRestBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/FriendsOfSymfony/FOSRestBundle/?branch=master)
 Symfony Standard Edition
 ========================
 
