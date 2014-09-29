@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/anisdjer/symf-restapi.svg?branch=master)](https://travis-ci.org/anisdjer/symf-restapi)
+
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/anisdjer/symf-restapi/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/anisdjer/symf-restapi/?branch=master)
 
 Symfony Standard Edition
