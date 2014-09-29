@@ -1,4 +1,5 @@
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/FriendsOfSymfony/FOSRestBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/FriendsOfSymfony/FOSRestBundle/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/anisdjer/symf-restapi/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/anisdjer/symf-restapi/?branch=master)
+
 Symfony Standard Edition
 ========================
 
