@@ -117,7 +117,7 @@ class UsersController extends FOSRestController
     public function linkUserAction($slug)
     {} // "link_user_friend"     [LINK] /users/{slug}
 
-    public function unlinkUserAction($slug)
+    public function unlinkUserAction()
     {} // "link_user_friend"     [UNLINK] /users/{slug}
 
 
